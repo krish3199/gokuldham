@@ -151,7 +151,7 @@
     .about{
         flex-wrap: wrap;
         gap: 25px;
-        padding-left: 10%;
+        /* padding-left: 10%; */
     }
     .a1{
         width: 90%;
@@ -189,6 +189,6 @@
 @media (max-width:500px) {
     .a1 img{
         height: 200px;
-        width: 80%;
+        width: 100%;
     }
 }
